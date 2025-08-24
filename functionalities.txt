@@ -1,0 +1,10 @@
+1. Add chat history ✅
+2. Strict system prompt to not reveal 
+3. Add emojis ✅
+4. Tabular answer preferred
+5. Image input capability
+6. Add prefined budget category wise
+7. Budget notification, when crossed 50 percent of budget
+8. Login functionality
+9. ChatGPT type interface
+10. Charts and tables

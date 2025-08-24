@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Food",
+    "amount": 54.0,
+    "date": "2025-08-24",
+    "description": "tea",
+    "id": "93061d13-4349-4fee-ba26-7d669c0f49f1",
+    "logged_at": "2025-08-24 14:19:11"
+  },
+  {
+    "category": "Entertainment",
+    "amount": 3000.0,
+    "date": "2025-08-24",
+    "description": "ludo",
+    "id": "4644bc31-3524-4e07-a418-f4b23a09c0ae",
+    "logged_at": "2025-08-24 14:22:14"
+  },
+  {
+    "category": "Shopping",
+    "amount": 50000.0,
+    "date": "2025-08-24",
+    "description": "laptop purchase",
+    "id": "491cbb21-aceb-4505-a29b-a719232f5943",
+    "logged_at": "2025-08-24 14:23:25"
+  },
+  {
+    "category": "Food",
+    "amount": 30.0,
+    "date": "2025-08-24",
+    "description": "snacks",
+    "id": "3b40ba6e-0d56-4bd4-9a6e-1e07a6ca6458",
+    "logged_at": "2025-08-24 14:43:21"
+  },
+  {
+    "amount": 30.0,
+    "date": "2025-08-24",
+    "category": "Food",
+    "description": "tea",
+    "id": "bf26ce61-ebd6-474e-bea4-c80b26030e49",
+    "logged_at": "2025-08-24 14:44:31"
+  }
+]
